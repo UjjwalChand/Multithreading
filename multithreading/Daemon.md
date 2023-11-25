@@ -1,0 +1,2 @@
+Daemon Thread is a service provider thread that provides services to the user thread. it'a a garbage collector also its fully depend on thread life cycle.
+by the help of setDaemon(Boolean) we can easily made thread to demon just passing the true value and public Boolean isDaemon() to check whether the thread is daemon or not.
